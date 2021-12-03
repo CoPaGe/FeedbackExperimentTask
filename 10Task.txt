@@ -1,11 +1,11 @@
 task url:
 * task 4A   https://codeforces.com/problemset/problem/4/A
-+ task1A   https://codeforces.com/problemset/problem/1/A
-- task50A  https://codeforces.com/problemset/problem/50/A
+* task1A   https://codeforces.com/problemset/problem/1/A
+* task50A  https://codeforces.com/problemset/problem/50/A
 * task112A https://codeforces.com/problemset/problem/112/A
-+ task118A https://codeforces.com/problemset/problem/118/A
-- task158A https://codeforces.com/problemset/problem/158/A
+* task118A https://codeforces.com/problemset/problem/118/A
+* task158A https://codeforces.com/problemset/problem/158/A
 * task263A https://codeforces.com/problemset/problem/263/A
-+ task266A https://codeforces.com/problemset/problem/266/A
-- task281A https://codeforces.com/problemset/problem/281/A
+* task266A https://codeforces.com/problemset/problem/266/A
+* task281A https://codeforces.com/problemset/problem/281/A
 * task339A https://codeforces.com/problemset/problem/339/A
