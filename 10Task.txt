@@ -1,5 +1,5 @@
 task url:
-* task 4A   https://codeforces.com/problemset/problem/4/A
+* task 4A  https://codeforces.com/problemset/problem/4/A
 * task1A   https://codeforces.com/problemset/problem/1/A
 * task50A  https://codeforces.com/problemset/problem/50/A
 * task112A https://codeforces.com/problemset/problem/112/A
